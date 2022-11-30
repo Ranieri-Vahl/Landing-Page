@@ -1,1 +1,1 @@
-# landing-page
+This academic project was a landing-page created by me during a course where I use practically only HTML and CSS. I focused in practice of the HTML and CSS so I used random texts and images in the page worrying more about the structure and the syntax of the project.
