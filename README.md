@@ -15,6 +15,14 @@ https://wonderful-conkies-025613.netlify.app/
 ![image](https://user-images.githubusercontent.com/117831704/212700953-f47c99d5-db36-4997-975b-29f079fd5869.png)
 
 RESPONSIVE:
-![image](https://user-images.githubusercontent.com/117831704/212701187-0b3e59a0-cfe0-41ce-b8de-621bc8631772.png)
+![image](https://user-images.githubusercontent.com/117831704/212702119-9e068f0f-e5c4-4803-82db-3ad9b14ae565.png)
+![image](https://user-images.githubusercontent.com/117831704/212702208-6df24a8c-812e-4dab-86af-e61984271652.png)
 ![image](https://user-images.githubusercontent.com/117831704/212701261-43f83763-8d2e-439a-beed-f55c2cf93346.png)
-![image](https://user-images.githubusercontent.com/117831704/212701386-4da60548-6e2b-4204-8ac4-7f740767bf50.png)
+![image](https://user-images.githubusercontent.com/117831704/212702279-92cbc411-1ecc-4db6-971e-11e9bb58c2f5.png)
+![image](https://user-images.githubusercontent.com/117831704/212702410-5072b526-1f7b-4872-8a2e-c67be843a97f.png)
+![image](https://user-images.githubusercontent.com/117831704/212702569-e5796bc5-5799-4531-88a7-2fdaf7a7f2f1.png)
+![image](https://user-images.githubusercontent.com/117831704/212702625-2a977691-374f-4e4a-b7ae-0fc54cf35529.png)
+![image](https://user-images.githubusercontent.com/117831704/212702713-de329318-2a28-4e84-af14-ab05b266d0f5.png)
+![image](https://user-images.githubusercontent.com/117831704/212702780-ab1cda11-8a90-409b-95fe-74003ec6ccbb.png)
+![image](https://user-images.githubusercontent.com/117831704/212702963-ac606cfe-024c-4443-81a1-96f27f65c224.png)
+
